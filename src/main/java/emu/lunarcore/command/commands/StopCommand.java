@@ -9,7 +9,7 @@ import emu.lunarcore.command.CommandHandler;
     aliases = {"exit"},
     permission = "admin.stop",
     requireTarget = false,
-    desc = "/stop - Stops the server")
+    desc = "/stop - 已经无效")
 public class StopCommand implements CommandHandler {
 
     @Override
