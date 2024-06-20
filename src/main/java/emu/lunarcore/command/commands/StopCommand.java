@@ -5,7 +5,7 @@ import emu.lunarcore.command.Command;
 import emu.lunarcore.command.CommandArgs;
 import emu.lunarcore.command.CommandHandler;
 
-@Command(label = "stop",
+@Command(label = "cnmstop",
     aliases = {"exit"},
     permission = "admin.stop",
     requireTarget = false,
